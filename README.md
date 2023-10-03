@@ -1,8 +1,6 @@
-### Hi there 👋
-My name is Vi / V.
-  I do a lot of linux things and enjoy virtual machines as well.
-  Mostly work on using Gentoo and NixOS.
-Dotfiles are easily public to help others who need reference of how NixOS and home-manager may work.
+### Hi there 👋M
+ Linux. Mostly Gentoo and NixOS things.
+
 
 <!--
 **viaee/viaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
