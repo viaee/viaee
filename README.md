@@ -1,8 +1,11 @@
-### Hi there 👋M
+### Hi there 👋
  Linux. Mostly Gentoo and NixOS things.
+Very interested in immutability and reproducibility in the Linux ecosystem and how it can be made better for general use.
+
+- 🌱 I’m currently learning Nix, C++, Linux.
 
 
-<!--
+- <!--
 **viaee/viaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
