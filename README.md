@@ -1,6 +1,8 @@
 ### Hi there 👋
- Linux. Mostly Gentoo and NixOS things.
+ Gremlin  who likes Linux and Robots. Mostly Gentoo and NixOS things.
 Very interested in immutability and reproducibility in the Linux ecosystem and how it can be made better for general use.
+
+🏳️‍⚧️
 
 - 🌱 I’m currently learning Nix, C++, Linux.
 
